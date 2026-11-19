@@ -1,0 +1,6 @@
+{
+  "name": "Gestion Pro",
+  "description": "Plateforme intégrée de gestion d'entreprise : interventions, clients, planning, équipements, stocks, facturation et SAV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

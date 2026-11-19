@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gestion Pro</string>
+    <string name="app_subtitle">Plateforme intégrée de gestion d\'entreprise</string>
+    <string name="nav_dashboard">Accueil</string>
+    <string name="nav_interventions">Interventions</string>
+    <string name="nav_planning">Planning</string>
+    <string name="nav_clients">Clients</string>
+    <string name="nav_modules">Modules</string>
+</resources>
